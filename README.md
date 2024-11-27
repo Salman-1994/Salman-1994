@@ -1,3 +1,6 @@
+
+![logo](https://github.com/Salman-1994/Salman-1994/blob/main/Black%20and%20Purple%20Gradient%20Neon%20Futuristic%20Technology%20LinkedIn%20Banner.png?raw=true)
+
 <h1 align="center">Hi 👋, I'm Salman Chaudhary</h1>
 <h3 align="center">A passionate Web Developer from Pakistan</h3>
 
